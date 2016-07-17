@@ -1,6 +1,6 @@
 package SeventhHomeworkTask2;
 
-public class Task extends AllWork {
+public class Task{
 	private String name;
 	private int workingHours;
 
